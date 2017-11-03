@@ -27,7 +27,7 @@
     "url": "https://github.com/cgjs/readline/issues"
   },
   "homepage": "https://github.com/cgjs/readline#readme",
-  "dependencies": {
-    "cgjs": "^0.1.3"
+  "devDependencies": {
+    "cgjs": "^0.1.9"
   }
 }
